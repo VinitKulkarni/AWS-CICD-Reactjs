@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-         <h1>Parth Trivedi</h1>
-         <p>Depstar-20DCE136</p>
+         <h1>Vinit Kulkarni</h1>
+         <p>This project is deployed with AWS CICD service. Thank YOu</p>
     </div>
   );
 }
